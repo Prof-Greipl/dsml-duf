@@ -1,3 +1,3 @@
-#  Colab-Notebooks aus dem DSA-Kurs an der HAW-Landshut von Prof. Greipl
+#  DSA, WS 21/22
 
-Ich pushe jeweile nach dem Termin.
+Colab-Notebooks aus dem DSA-Kurs an der HAW-Landshut von Prof. Greipl. Ich pushe jeweils nach dem Termin.
